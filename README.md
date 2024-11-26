@@ -1,24 +1,19 @@
-﻿# Challenger-FX
-Este projeto é um jogo clássico de Pedra, Papel e Tesoura com um toque especial: animações envolventes e um design simples, criados para praticar e explorar o uso de @keyframes e animation no CSS.
+Jokenpô Animado é uma versão interativa do clássico jogo de Pedra, Papel e Tesoura, criada para praticar animações utilizando CSS. O projeto combina um design simples com transições visuais cativantes, proporcionando uma experiência divertida enquanto explora o poder das animações com @keyframes e animation.
 
-🌟 Funcionalidades
-Escolha do jogador: Selecione Pedra, Papel ou Tesoura e desafie o computador.
-Resultado dinâmico: Descubra o vencedor com mensagens animadas e interativas.
-Animações cativantes: Cada movimento tem transições fluidas e efeitos visuais criados com CSS.
-🎨 Estilo
-O estilo é minimalista, destacando-se pelas animações que dão vida ao jogo. As transições tornam o jogo mais divertido e visualmente atrativo.
-
-🚀 Tecnologias Utilizadas
-HTML: Estrutura do jogo.
+# 🎮 Funcionalidades
+Escolha sua jogada: Pedra, Papel ou Tesoura – desafie o computador!
+Resultados dinâmicos: Feedback animado para vitória, derrota ou empate.
+Animações personalizadas: Efeitos visuais suaves criados com CSS puro.
+# 🛠️ Tecnologias Utilizadas
+HTML: Estrutura da aplicação.
 CSS: Estilização e animações com @keyframes e animation.
-JavaScript: Lógica para determinar o vencedor e controlar as interações.
-🎯 Objetivo
-Este projeto foi desenvolvido com o propósito de:
+JavaScript: Lógica do jogo e interatividade.
+# 💡 Motivação
+O objetivo principal deste projeto foi:
+Praticar a criação de animações CSS utilizando @keyframes.
+Aprimorar as habilidades em desenvolvimento web com HTML, CSS e JavaScript.
 
-Praticar a criação de animações no CSS.
-Aprimorar habilidades em desenvolvimento web com HTML, CSS e JavaScript.
-Criar uma experiência divertida e visualmente interessante para o usuário.
-💡 Possíveis Melhorias
-Adicionar um placar para acompanhar as partidas.
-Incluir mais efeitos sonoros para tornar o jogo mais envolvente.
+# 🚀 Melhorias Futuras
+Adicionar um sistema de placar para acompanhar as partidas.
+Incorporar efeitos sonoros para aumentar a imersão.
 Melhorar a responsividade para dispositivos móveis.
